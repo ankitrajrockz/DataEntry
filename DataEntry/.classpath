@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/Workspace/New folder/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/New folder/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/New folder/checker-compat-qual-2.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/New folder/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/New folder/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/New folder/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/New folder/error_prone_annotations-2.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/New folder/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/New folder/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/New folder/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/New folder/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/New folder/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/New folder/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/New folder/okio-1.14.1.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/New folder/selenium-api-3.14.0.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/New folder/selenium-chrome-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/New folder/selenium-edge-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/New folder/selenium-firefox-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/New folder/selenium-ie-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/New folder/selenium-java-3.141.59.zip"/>
+	<classpathentry kind="lib" path="E:/Workspace/New folder/selenium-opera-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/New folder/selenium-remote-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/New folder/selenium-safari-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/New folder/selenium-support-3.14.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
